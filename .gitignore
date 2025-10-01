@@ -1,0 +1,3 @@
+__pycache__/
+cicd_env/
+*.pyc
